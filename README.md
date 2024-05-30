@@ -1,4 +1,4 @@
-# Embedding-Visualization-for-Bert
+# Embedding Visualization for Bert
 Inspired by and built on works that try to explain AI's hidden states, especially the work on the visualization of the embeddings in bert-base-chinese [1], this work aims to see what Bert has and has not learned via visualizing the embeddings for polysemous Chinese words in sentences.
 
 ### Methodology
